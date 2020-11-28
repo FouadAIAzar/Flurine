@@ -1,0 +1,42 @@
+Chemikalien	Präfix
+NaCl	nac
+KCl	kcl
+K2SO4	mgs
+MgSO4	mgc
+MgCO3	khc
+KHCO3	khc
+K3PO4	kpo
+CA3(PO4)2	cpo
+Urea	ure
+Creatinine	crn
+Uropepsin	tyr
+Creatine	cre
+Glycine	gly
+Phenol	phe
+Histidine	his
+Androsterone	and
+1-Methylhistidine	met
+Imidazole	imi
+Glucose	glu
+Taurine	tau
+Cystine	cys
+Citrulline	cit
+Aminoisobutyric acid	ami
+Threonine	thr
+Lysine	lys
+Indoxylsulfuric acid	try
+a-Hydroxyhippuric acid	hyd
+Inositol	ino
+Urobilirubin	uro
+Tyrosine 	tyr
+Asparagine	asp
+Ammonium Hippurate	ahi
+Ammonium Citrate	aci
+Ammonium Glucuronate	agc
+Ammonium Urate	aur
+Ammonium Lactate	ala
+Ammonium L-Glutamate	agt
+Ammonium Asparate	aas
+Ammonium Formate	afo
+Ammonium Pyruvate	apy
+Ammonium Oxalate	aox
